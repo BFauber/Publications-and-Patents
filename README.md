@@ -100,55 +100,61 @@ Peer-reviewed Publications, Issued Patents, and Invited Presentations
 
 <B>Patent Applications</B>
 
-1. <B>Fauber, B. P.</B>; Ladduwahetty, T.; René, O. Heteroarylalkylene Aryl Sultam Derivatives as RORc Modulators. WO 2016/096936, June 23, 2016.
+1. Bronner, S. M.; Crawford, J. J.; Cridland, A.; <B>Fauber, B. P.</B>; Gancia, E.; Hurley, C.; Killen, J.; van Niel, M. B.; Ward, S. Pyridazine Derivatives as RORc Modulators. WO 2016/177760, Nov 10, 2016.
 
-2. <B>Fauber, B. P.</B>; Gaines, S.; Killen, J.; van Niel, M. B.; Ward, S. Benzene Sulfonamide Derivatives as RORc Modulators. WO 2015/177325, Nov 26, 2015.
+2. Cridland, A.; <B>Fauber, B. P.</B>; Hurley, C.; Killen, J.; van Niel, M. B.; Ward, S.; Winship, P. Pyridazine Derivatives as RORc Modulators. WO 2016/177710, Nov 10, 2016.
 
-3. Chen, J.; Ding, C.; Dragovich, P. S.; <B>Fauber, B. P.</B>; Gao, Z.; Labadie, S.; Lai, K. W.; Purkey, H.; Robarge, K.; Wei, B.; Zhou, A. Piperidine Dione Derivatives. WO 2015/140133, Sept 24, 2015.
+3. Cridland, A.; <B>Fauber, B. P.</B>; Hurley, C.; Killen, J.; van Niel, M. B.; Ward, S. Pyridazine Derivatives as RORc Modulators. WO 2016/177686, Nov 10, 2016.
 
-4. <B>Fauber, B. P.</B>; Gancia, E.; Gaines, S.; Gobbi, A.; Ladduwahetty, T.; René, O.; van Niel, M. B.; Vesey, D.; Ward, S.; Winship, P. Aryl Sultam Derivatives as RORc Modulators. WO 2015/104356, July 16, 2015.
+4. <B>Fauber, B. P.</B>; Ladduwahetty, T.; René, O. Heteroarylalkylene Aryl Sultam Derivatives as RORc Modulators. WO 2016/096936, June 23, 2016.
 
-5. <B>Fauber, B. P.</B>; Gancia, E.; Gaines, S.; Gobbi, A.; Hurley, C.; Ladduwahetty, T.; René, O.; van Niel, M. B.; Vesey, D.; Ward, S.; Winship, P. Aryl Sultam Derivatives as RORc Modulators. WO 2015/104354, July 16, 2015.
+5. <B>Fauber, B. P.</B>; Gaines, S.; Killen, J.; van Niel, M. B.; Ward, S. Benzene Sulfonamide Derivatives as RORc Modulators. WO 2015/177325, Nov 26, 2015.
 
-6. <B>Fauber, B. P.</B>; Malhotra, S.; René, O.; Yajima, H. Heteroaryl Sultam Derivatives as RORc Modulators. WO 2015/104353, July 16, 2015.
+6. Chen, J.; Ding, C.; Dragovich, P. S.; <B>Fauber, B. P.</B>; Gao, Z.; Labadie, S.; Lai, K. W.; Purkey, H.; Robarge, K.; Wei, B.; Zhou, A. Piperidine Dione Derivatives. WO 2015/140133, Sept 24, 2015.
 
-7. Cridland, A.; <B>Fauber, B. P.</B>; Gobbi, A.; Hurley, C.; Hurst, D.; Killen, J.; Maxey, R.; van Niel, M. B.; Ward, S. 5,6,7,8 Tetrahydro-5,8-Methanocinnoline Derivatives as RORc Modulators for the Treatment of Autoimmune Diseases. WO 2015/067575, May 14, 2015.
+7. <B>Fauber, B. P.</B>; Gancia, E.; Gaines, S.; Gobbi, A.; Ladduwahetty, T.; René, O.; van Niel, M. B.; Vesey, D.; Ward, S.; Winship, P. Aryl Sultam Derivatives as RORc Modulators. WO 2015/104356, July 16, 2015.
 
-8. Cridland, A.; <B>Fauber, B. P.</B>; Gobbi, A.; Hurley, C.; Hurst, D.; Killen, J.; Maxey, R.; van Niel, M. B.; Ward, S. Pyridazine Derivatives as RORc Modulators. US 2015/0126491, May 7, 2015.
+8. <B>Fauber, B. P.</B>; Gancia, E.; Gaines, S.; Gobbi, A.; Hurley, C.; Ladduwahetty, T.; René, O.; van Niel, M. B.; Vesey, D.; Ward, S.; Winship, P. Aryl Sultam Derivatives as RORc Modulators. WO 2015/104354, July 16, 2015.
 
-9. Albrecht, B. K.; Audia, J. E.; Bellon, S.; Cochran, A.; Cote, A.; Crawford, T.; <B>Fauber, B.</B>; Ghosh, S.; Harmanage, J. C.; Hatzivassiliou, G.; Jayaram, H.; Kim, J.; Lora, J. M.; Magnuson, S.; Mellman, I.; Romero, F. A.; Taylor, A. M.; Tsui, V. Use of CBP/EP300 Bromodomain Inhibitors for Cancer Immunotherapy. WO 2015/054642, Apr 16, 2015.
+9. <B>Fauber, B. P.</B>; Malhotra, S.; René, O.; Yajima, H. Heteroaryl Sultam Derivatives as RORc Modulators. WO 2015/104353, July 16, 2015.
 
-10.	<B>Fauber, B. P.</B>; Gobbi, A. Keto-imidazopyridine Derivatives as RORc Modulators. WO 2015/036411, Mar 19, 2015.
+10. Cridland, A.; <B>Fauber, B. P.</B>; Gobbi, A.; Hurley, C.; Hurst, D.; Killen, J.; Maxey, R.; van Niel, M. B.; Ward, S. 5,6,7,8 Tetrahydro-5,8-Methanocinnoline Derivatives as RORc Modulators for the Treatment of Autoimmune Diseases. WO 2015/067575, May 14, 2015.
 
-11.	<B>Fauber, B. P.</B>; René, O. Aryl Sultam Derivatives as RORc Modulators. WO 2014/202741, Dec 24, 2014.
+11. Cridland, A.; <B>Fauber, B. P.</B>; Gobbi, A.; Hurley, C.; Hurst, D.; Killen, J.; Maxey, R.; van Niel, M. B.; Ward, S. Pyridazine Derivatives as RORc Modulators. US 2015/0126491, May 7, 2015.
 
-12.	Albrecht, B. K.; Cote, A.; Crawford, T.; <B>Fauber, B. P.</B>; Huang, H.-R.; Lora, J. M.; Magnuson, S.; Nasveschuk, C. G.; Salmeron, A.; Sims, R. J.; Taylor, A. M. Treating T<SUB>H</SUB>2-Mediated Diseases by Inhibition of Bromodomains. WO 2014/144721, Sept 18, 2014.
+12. Albrecht, B. K.; Audia, J. E.; Bellon, S.; Cochran, A.; Cote, A.; Crawford, T.; <B>Fauber, B.</B>; Ghosh, S.; Harmanage, J. C.; Hatzivassiliou, G.; Jayaram, H.; Kim, J.; Lora, J. M.; Magnuson, S.; Mellman, I.; Romero, F. A.; Taylor, A. M.; Tsui, V. Use of CBP/EP300 Bromodomain Inhibitors for Cancer Immunotherapy. WO 2015/054642, Apr 16, 2015.
 
-13.	<B>Fauber, B. P.</B>; René, O.; van Niel, M. B.; Ward, S. Aryl Sulfamide and Sulfamate Derivatives as RORc Modulators. WO 2014/140059, Sept 18, 2014.
+13.	<B>Fauber, B. P.</B>; Gobbi, A. Keto-imidazopyridine Derivatives as RORc Modulators. WO 2015/036411, Mar 19, 2015.
 
-14.	<B>Fauber, B. P.</B>; Gaines, S.; Killen, J.; René, O.; van Niel, M. B.; Ward, S. Benzyl Sulfonamide Derivatives as RORc Modulators. WO 2014/090712, June 19, 2014.
+14.	<B>Fauber, B. P.</B>; René, O. Aryl Sultam Derivatives as RORc Modulators. WO 2014/202741, Dec 24, 2014.
 
-15.	<B>Fauber, B. P.</B>; René, O.; van Niel, M. B.; Ward, S. Benzyl Sulfonamide Derivatives as RORc Modulators. WO 2014/090710, June 19, 2014.
+15.	Albrecht, B. K.; Cote, A.; Crawford, T.; <B>Fauber, B. P.</B>; Huang, H.-R.; Lora, J. M.; Magnuson, S.; Nasveschuk, C. G.; Salmeron, A.; Sims, R. J.; Taylor, A. M. Treating T<SUB>H</SUB>2-Mediated Diseases by Inhibition of Bromodomains. WO 2014/144721, Sept 18, 2014.
 
-16.	<B>Fauber, B. P.</B>; René, O.; van Niel, M. B.; Ward, S. Benzyl Sulfonamide Derivatives as RORc Modulators. US 2014/0163110, June 12, 2014.
+16.	<B>Fauber, B. P.</B>; René, O.; van Niel, M. B.; Ward, S. Aryl Sulfamide and Sulfamate Derivatives as RORc Modulators. WO 2014/140059, Sept 18, 2014.
 
-17.	<B>Fauber, B. P.</B>; Gaines, S.; Killen, J.; René, O.; van Niel, M. B.; Ward, S. Benzyl Sulfonamide Derivatives as RORc Modulators. US 2014/0163024, June 12, 2014.
+17.	<B>Fauber, B. P.</B>; Gaines, S.; Killen, J.; René, O.; van Niel, M. B.; Ward, S. Benzyl Sulfonamide Derivatives as RORc Modulators. WO 2014/090712, June 19, 2014.
 
-18. <B>Fauber, B. P.</B>; Gaines, S.; Gobbi, A.; René, O.; van Niel, M. B.; Vesey, D.; Ward, S. Aryl Sultam Derivatives as RORc Modulators. WO 2014/009447, Jan 16, 2014.
+18.	<B>Fauber, B. P.</B>; René, O.; van Niel, M. B.; Ward, S. Benzyl Sulfonamide Derivatives as RORc Modulators. WO 2014/090710, June 19, 2014.
 
-19.	<B>Fauber, B. P.</B>; René, O. Preparation of Benzylsulfonamide Derivatives as RORc Modulators for Treatment of Arthritis. WO 2013/092941, June 27, 2013.
+19.	<B>Fauber, B. P.</B>; René, O.; van Niel, M. B.; Ward, S. Benzyl Sulfonamide Derivatives as RORc Modulators. US 2014/0163110, June 12, 2014.
 
-20.	<B>Fauber, B. P.</B>; René, O. Preparation of Benzylsulfonamide Derivatives as RORc Modulators for Treatment of Arthritis. WO 2013/092939, June 27, 2013.
+20.	<B>Fauber, B. P.</B>; Gaines, S.; Killen, J.; René, O.; van Niel, M. B.; Ward, S. Benzyl Sulfonamide Derivatives as RORc Modulators. US 2014/0163024, June 12, 2014.
 
-21.	Dakin, L.; <B>Fauber, B.</B>; Hird, A.; Janetka, J.; Russell, D. J.; Su, Q.; Yang, B.; Zheng, X. Heterocyclic Amides Useful for the Treatment of Cancer and Psoriasis. US 2010/0311748, Dec 9, 2010.
+21. <B>Fauber, B. P.</B>; Gaines, S.; Gobbi, A.; René, O.; van Niel, M. B.; Vesey, D.; Ward, S. Aryl Sultam Derivatives as RORc Modulators. WO 2014/009447, Jan 16, 2014.
 
-22.	Magnus, P. D.; <B>Fauber, B. P.</B>; Sane, N. Synthesis of Morphine and Related Derivatives. WO 2010/132570, Nov 18, 2010.
+22.	<B>Fauber, B. P.</B>; René, O. Preparation of Benzylsulfonamide Derivatives as RORc Modulators for Treatment of Arthritis. WO 2013/092941, June 27, 2013.
 
-23.	<B>Fauber, B.</B>; Hird, A.; Janetka, J.; Russell, D. J.; Yang, B. Phenyl Carboxamide Derivatives as Inhibitors and Effectors of the Hedgehog Pathway. WO 2009/030952, Mar 12, 2009.
+23.	<B>Fauber, B. P.</B>; René, O. Preparation of Benzylsulfonamide Derivatives as RORc Modulators for Treatment of Arthritis. WO 2013/092939, June 27, 2013.
 
-24.	Dakin, L.; <B>Fauber, B.</B>; Hird, A.; Janetka, J.; Russell, D. J.; Su, Q.; Yang, B.; Zheng, X. Heterocyclic Amides Useful for the Treatment of Cancer and Psoriasis. WO 2009/027746, Mar 5, 2009.
+24.	Dakin, L.; <B>Fauber, B.</B>; Hird, A.; Janetka, J.; Russell, D. J.; Su, Q.; Yang, B.; Zheng, X. Heterocyclic Amides Useful for the Treatment of Cancer and Psoriasis. US 2010/0311748, Dec 9, 2010.
 
-25.	Strauss, S. H.; <B>Fauber, B. P.</B>; Nolan, B. G. Weakly-Coordinating Anions Containing Polyfluoroalkoxide Ligands. WO 2000/053611, Sept 14, 2000.
+25.	Magnus, P. D.; <B>Fauber, B. P.</B>; Sane, N. Synthesis of Morphine and Related Derivatives. WO 2010/132570, Nov 18, 2010.
+
+26.	<B>Fauber, B.</B>; Hird, A.; Janetka, J.; Russell, D. J.; Yang, B. Phenyl Carboxamide Derivatives as Inhibitors and Effectors of the Hedgehog Pathway. WO 2009/030952, Mar 12, 2009.
+
+27.	Dakin, L.; <B>Fauber, B.</B>; Hird, A.; Janetka, J.; Russell, D. J.; Su, Q.; Yang, B.; Zheng, X. Heterocyclic Amides Useful for the Treatment of Cancer and Psoriasis. WO 2009/027746, Mar 5, 2009.
+
+28.	Strauss, S. H.; <B>Fauber, B. P.</B>; Nolan, B. G. Weakly-Coordinating Anions Containing Polyfluoroalkoxide Ligands. WO 2000/053611, Sept 14, 2000.
 <BR>
 <BR>
 
