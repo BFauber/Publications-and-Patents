@@ -1,4 +1,4 @@
-# Publications-and-Patents
+# Publications and Patents
 <B>Benjamin P. Fauber, Ph.D.</B>
 <BR>
 Peer-reviewed Publications, Issued Patents, and Invited Presentations
